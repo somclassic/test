@@ -1,0 +1,43 @@
+
+account สมาชิกเมืองไทย smile club
+
+username : 0000218050
+password : 1234
+
+
+credit card
+ccv : 123
+password : 111111
+
+
+
+account ลูกค้าทั่วไป
+
+user : 00003334444
+password : abc123
+
+
+account Facebook ที่มี 0 point  
+
+tester.buzz@gmail.com
+Testerau
+
+
+
+
+0001044807
+1234
+
+
+account สมาชิกเมืองไทย smile club
+
+username : 0000218050
+password : 1234
+
+
+
+
+account ลูกค้าทั่วไป
+
+user : 00003334444
+password : abc123
